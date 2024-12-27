@@ -594,9 +594,10 @@ form {
     gap: 16px;
 }
 
-.comp p {
+.comp a {
     color: #7A7A7A;
     font-size: 16px;
+    text-decoration: none;
 }
 
 .compan {
@@ -623,4 +624,5 @@ form {
 .followImg {
     display: flex;
     gap: 16px;
+    padding-top: 16px;
 }
